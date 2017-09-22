@@ -1,0 +1,7 @@
+#macro SHOOT_RANGE 400
+#macro UPDATE_SPEED 3
+
+
+#macro MESSAGE_MOVE 1
+#macro MESSAGE_JOIN 2
+#macro MESSAGE_LEAVE 3
